@@ -44,4 +44,4 @@ Execute o projeo
 yarn start
 ```
 
-Teste a aplicação no endereço [http://localhost:3000](http://localhost:3000)
+Teste a aplicação com o endereço base [http://localhost:3000](http://localhost:3000)
